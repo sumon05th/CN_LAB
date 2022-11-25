@@ -22,7 +22,7 @@ trip Time from the client to the server. The server should be such that it
 can accept Multiple connections at any given time. 
 
 5. Write a program for connectionless iterative service in which the server
-finds the factorial of a number sent by the client and sends it back. 
+finds the factorial of a number sent by the client and sends it back. (after compiling client compile server)
 
 6. Write a Client-Server socket program in C to implement “FTP server”
 using a TCP connection. Description: file.txt may be there on the server
